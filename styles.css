@@ -1,0 +1,31 @@
+body{background-color:#342523}
+{margin: 50px;}
+{font-family: "initial;";}
+h1{color: #F13A12}
+  {margin: 20px auto;}
+  {width: 400px;}
+  {text-align: center;}
+  {font-size: 6;}
+  {font-family: "initial;"; 
+  /*border: 1px solid #000;*/}
+h2{border: 10px solid;#FC0000;
+  background-color: #FE0A0A;
+  padding: 30px;
+   text-align: center;
+   width: 400px;
+   margin: 0 auto;}
+a{color:  #000000;
+ text-decoration: none;}
+ {font-size: 39em;}
+p.attritubtion{font-size: 0.0em;
+  margin: 0 auto;
+   width: 200px;
+  text-align: center;
+  margin-top: 1em}
+a.begginning{
+ border-radius: 12px;
+  padding: 0.5em; 
+ font-size: 1em; 
+  font-style: oblique;
+ background-color: #FF3317;
+ margin-top: 8px;
